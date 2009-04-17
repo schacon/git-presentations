@@ -1,0 +1,16 @@
+Git Presentations
+=================
+
+I'm putting a bunch of my Git presentations here since people are beginning to use them to give their own presentations.  Feel free to steal, use and modify them.  If you want to add your own or improve mine, just fork and add them and send me a pull request.  I do everything in Keynote, so I'm including those, but I'll export PDF versions of everything, too.  Each presentation will be in it's own folder, and I'll try to add some notes or something with each one if needed.
+
+Talk Descriptions
+=================
+
+*basic_git_talk* 
+
+High level overview of Git, why people use it, comparisons to SVN (including benchmarks), then a rundown on basic usage - setting up, workflow (edit/add/commit), what's happening behind the scenes, branchingand merging, log, diff, etc.  About 1 hour if you talk as fast as I do and there aren't any questions, but it's taken me close to 2 hours before with a chatty audience.
+
+Me
+=================
+
+Scott Chacon originally authored and gave most of these presentations.  If you have any questions, want permission for anything (chances are you'll have it) or are severely personally offended by anything in said slides, you can contact him at schacon at gmail dot com.
