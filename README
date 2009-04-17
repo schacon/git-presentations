@@ -10,6 +10,18 @@ Talk Descriptions
 
 High level overview of Git, why people use it, comparisons to SVN (including benchmarks), then a rundown on basic usage - setting up, workflow (edit/add/commit), what's happening behind the scenes, branchingand merging, log, diff, etc.  About 1 hour if you talk as fast as I do and there aren't any questions, but it's taken me close to 2 hours before with a chatty audience.
 
+*git_world_economy_talk*
+
+This is a short, 30 minute or so talk that I tend to give at larger companies that is very high level and fast paced, intended to convince people to move their personal and company open source projects to Git and GitHub.  This talk is about half high level Git evangelization, then half GitHub evangelization.
+
+*railsconf08*
+
+The first big talk I gave on Git in early 2008.  There are over 500 slides here, but I gave them fairly easily in about 45-50 minutes.  I did a screencast of this deck, so you can see the presentation being given (url in the readme in that subdir).  It introduces basic Git concepts, starting from the internals, then goes over all the porcelain you use most often.  This is a bit old (pre 1.6), it still assumes you have all the executables in your path rather than in libexec, and I've since moved away from talking about internals off the bat (Basic Git Talk still goes over some internal concepts, but much more gently and farther into the presentation, I think.
+
+*sor09*
+
+This is the talk I gave at Scotland on Rails in 2009.  It has a lot of the Basic Git Talk, plus a number of advanced commands (revision selection, bisect, rebasing, etc).  It is a large deck, over 500 slides - it will take at least 2 hours to get through.  I did 80% of it in 45 minutes, but I was in overdrive., One could easily split it into two shorter presentations.
+
 Me
 =================
 
